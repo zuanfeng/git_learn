@@ -1,4 +1,4 @@
-learn git command  
+h5:learn git command  
 - git init
 - git add filename
 - git commit -m "msg"
